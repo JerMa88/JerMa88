@@ -18,7 +18,7 @@
 - 🎓 **ML Researcher**, **software developer**, and **programmer**
 - 💻 Passionate about **ML**, **ML in health**, **human-centered AI**, and **explainable AI (XAI)**
 - 🌱 Currently learning: **Graph RAG**
-- 🔧 Working on: [**Predicting ID with LLaMA**](https://jerma88.github.io/projects/Idea-Density/)
+- 🔧 Working on: [**Predicting ID with LLaMA**](https://jerma88.github.io/project/id-prediction/)
 - 📫 How to reach me: [**jerryma@smu.edu**](mailto:jerryma@smu.edu)
   
 ---
@@ -26,7 +26,7 @@
 ## 🛠 Tech Stack  
 - 📜 **Languages:** Python, Assembly, and C/C++
 - ⚙️**Frameworks & Libraries:** PyTorch, TensorFlow, Scikit-learn, FastAPI, and Flask
-- 🛢️**Databases:** PostgreSQL, MySQL, and CQL
+- 🛢️**Databases:** SQLite, MySQL, and CQL
 - 🌐**Platforms and Tools:** AWS, Azure, and Docker
 
 ---
