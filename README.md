@@ -7,7 +7,7 @@
   <a href="https://jerma88.github.io/">
     <img src="https://img.shields.io/badge/Homepage-green?style=for-the-badge" alt="Website Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/jerma88/">
+  <a href="https://www.linkedin.com/in/zerui-jerry-ma/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </span>
